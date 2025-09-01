@@ -1,6 +1,6 @@
 # Hey Wassup👋 Welcome to My GitHub Profile 🚀👨🏾‍💻  
 
-I’m **Aman Singh**, an aspiring **Data Engineer / Data Scientist** and **Computer Science student (CSE 2025, Chandigarh University)**.  
+I’m **Aman Singh**, an aspiring **Data Engineer / Data Scientist** and **Computer Science student (CSE 2026, Chandigarh University)**.  
 I specialize in **Data Visualization, Machine Learning, and Predictive Modeling**. Proficient in building **interactive dashboards, scalable apps, and automated pipelines** to solve real-world problems. 🚀  
 
 ---
@@ -13,7 +13,9 @@ I specialize in **Data Visualization, Machine Learning, and Predictive Modeling*
 
 ---
 
-## 🛠️ Internship Experience  
+## 🛠️ Internship Experience 
+
+- **[Air Quality Index Visualization](https://github.com/Aman050103/AQI_PowerBi_Dashboard)**
 
 - **Infosys (Oct 2024 – Dec 2024)** – *Air Quality Index Visualization*  
   - Developed **interactive AQI dashboard** using Python, Streamlit & Power BI  
