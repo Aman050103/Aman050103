@@ -1,40 +1,37 @@
 # Hey Wassup👋 Welcome to My GitHub Profile 🚀👨🏾‍💻  
 
-I’m **Aman Singh**, an aspiring **Machine Learning Engineer** and **Computer Science student (CSE 2025, Chandigarh University)**.  
-Passionate about building **end-to-end ML solutions**, **data visualization dashboards**, and exploring **Deep Learning, NLP, and MLOps**. 🚀  
+I’m **Aman Singh**, an aspiring **Data Engineer / Data Scientist** and **Computer Science student (CSE 2025, Chandigarh University)**.  
+I specialize in **Data Visualization, Machine Learning, and Predictive Modeling**. Proficient in building **interactive dashboards, scalable apps, and automated pipelines** to solve real-world problems. 🚀  
 
 ---
 
 ## 📚 About Me  
-- 💡 Skilled in Python, SQL, and Cloud technologies  
-- 📊 Experienced with ML models, NLP projects, and data pipelines  
-- 🌱 Currently learning **AWS Big Data & MLOps**  
-- ⚡ Love solving real-world problems through **AI-driven solutions**  
+- 💡 Strong foundation in **Python, SQL, and Cloud technologies**  
+- 📊 Skilled in **data pipelines, ML models, and dashboards**  
+- 🌱 Currently exploring **AWS Big Data & Advanced ML techniques**  
+- ⚡ Passionate about turning **data into business solutions**  
 
 ---
 
 ## 🛠️ Internship Experience  
 
 - **Infosys (Oct 2024 – Dec 2024)** – *Air Quality Index Visualization*  
-  - Built an interactive **AQI dashboard** using Python, Streamlit & Power BI  
-  - Automated data preprocessing workflows (reduced manual effort by 30%)  
-  - Designed scalable **data pipelines** ensuring consistent datasets for ML  
+  - Developed **interactive AQI dashboard** using Python, Streamlit & Power BI  
+  - Automated preprocessing workflows (reduced manual effort by 30%)  
+  - Presented visual insights for better understanding of AQI trends  
 
 ---
 
 ## 🚀 Projects  
 
 - **[Student Score Prediction](https://github.com/Aman050103/Student-Score-Prediction)**  
-  Linear Regression model deployed with Streamlit for real-time score predictions.  
+  Built a **Linear Regression model** with Streamlit app for predicting student scores.  
 
 - **[Financial Fraud Detection](https://github.com/Aman050103/Financial-Fraud-Detection)**  
-  Processed **1M+ transactions/month**, achieving **91% accuracy** in fraud detection.  
-
-- **[NLP – Text Classification](https://github.com/Aman050103/Text-Classification-NLP)**  
-  Fine-tuned **BERT model** for sentiment classification, deployed via **FastAPI**.  
+  Processed **1M+ transactions/month**, achieving **91% fraud detection accuracy**.  
 
 - **[Restaurant Website](https://github.com/Aman050103/Restaurant-Website)**  
-  Full-stack app (HTML, CSS, JS, Django) with reservations, reviews & authentication.  
+  Full-stack website with reservations, reviews & authentication using Django.  
 
 ---
 
@@ -51,10 +48,9 @@ Passionate about building **end-to-end ML solutions**, **data visualization dash
 - **Languages**: Python, C++, Java, R (basic)  
 - **Databases**: MySQL, MongoDB, SQL  
 - **Tools & Tech**: Power BI, Streamlit, Tableau (basic), Git, GitHub, Google Colab, VS Code  
-- **Libraries & Frameworks**: pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, Keras, Hugging Face, Django  
-- **AI/ML**: Machine Learning, Deep Learning, NLP, Predictive Modeling, Data Analytics  
-- **MLOps & Deployment**: FastAPI, Docker (basic), API Integration  
-- **Cloud/Big Data**: AWS (basic), Hadoop (intro)  
+- **Libraries & Frameworks**: pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, Keras, Django  
+- **Cloud/Big Data**: AWS (basic), Hadoop (intro level)  
+- **Other Skills**: Excel, Data Cleaning, Feature Engineering, API Integration  
 
 ---
 
